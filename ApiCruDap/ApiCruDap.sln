@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiCruDap", "ApiCruDap\ApiCruDap.csproj", "{C1E5AF27-451B-4511-8C6B-79C0D6BCFA60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1E5AF27-451B-4511-8C6B-79C0D6BCFA60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1E5AF27-451B-4511-8C6B-79C0D6BCFA60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1E5AF27-451B-4511-8C6B-79C0D6BCFA60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1E5AF27-451B-4511-8C6B-79C0D6BCFA60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF447243-484D-415F-BFC5-F337FB33A69E}
+	EndGlobalSection
+EndGlobal
